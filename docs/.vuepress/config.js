@@ -23,6 +23,14 @@ module.exports = {
                         "",
                         "one", 
                          "two"
+                         ],
+			'/redis/': [
+                        "",
+                        "start"
+                         ],
+			'/jvm/': [
+                        "",
+                        "start"
                          ]
             },
         sidebarDepth: 3,
