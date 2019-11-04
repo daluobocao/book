@@ -16,7 +16,7 @@ module.exports = {
               ] 
             },
             { text: '关于', link: '/about/' },
-            { text: 'Github', link: 'https://www.github.com/codeteenager' },
+            { text: 'Github', link: 'https://www.github.com/daboluocao' },
         ],
         sidebar: {
             '/guide/': [
@@ -31,6 +31,11 @@ module.exports = {
 			'/jvm/': [
                         "",
                         "start"
+                         ],
+			'/hystrix/': [
+                        "",
+                        "quickstart",
+						"configuration"
                          ]
             },
         sidebarDepth: 3,
